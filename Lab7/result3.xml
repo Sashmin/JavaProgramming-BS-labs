@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<companies>
+    <company>
+        <name>Richstock</name>
+        <shortTitle>RS</shortTitle>
+        <dateUpdate>12.04.2003</dateUpdate>
+        <address>Nezav</address>
+        <dateFoundation>06.10.2000</dateFoundation>
+        <countEmployees>200</countEmployees>
+        <auditor>Alex</auditor>
+        <phone>37529</phone>
+        <email/>
+        <branch>warehouse</branch>
+        <activity>details</activity>
+        <link>www</link>
+    </company>
+</companies>

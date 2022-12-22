@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<companies>
+    <company>
+        <name>Samsung</name>
+        <shortTitle>Sams</shortTitle>
+        <dateUpdate>30.01.1997</dateUpdate>
+        <address/>
+        <dateFoundation>01.12.1988</dateFoundation>
+        <countEmployees>20000</countEmployees>
+        <auditor/>
+        <phone/>
+        <email/>
+        <branch>smartphones</branch>
+        <activity>sm</activity>
+        <link/>
+    </company>
+    <company>
+        <name>Comp</name>
+        <shortTitle>Inc</shortTitle>
+        <dateUpdate/>
+        <address/>
+        <dateFoundation>14.10.1965</dateFoundation>
+        <countEmployees>1200</countEmployees>
+        <auditor/>
+        <phone/>
+        <email/>
+        <branch>business</branch>
+        <activity>stock</activity>
+        <link>www</link>
+    </company>
+</companies>
